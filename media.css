@@ -1,0 +1,168 @@
+@media only screen and (max-width: 1942px) {
+}
+
+@media only screen and (max-width: 1800px) {
+  .slider-text-container-box.blue {
+    margin-top: 59px;
+  }
+  .slider-text-container-box {
+    margin-top: 85px;
+  }
+
+  .slider h1 {
+    font-size: 50px;
+    line-height: 47px;
+  }
+  
+  .gamburger {
+    width: 39px;
+    height: 42px;
+  }
+
+  .nav-menu {
+    width: 91.2%;
+  }
+
+  .nav-menu-item ul li {
+    margin: 0;
+  }
+
+  .nav-menu-item ul li a {
+    font-size: 12px;
+  }
+
+  .red-point.first {
+    right: 5px;
+    bottom: -21px;
+  }
+
+  .swiper-container-horizontal > .swiper-pagination-bullets,
+  .swiper-pagination-custom,
+  .swiper-pagination-fraction {
+    bottom: 65px;
+    left: 48.2%;
+    width: auto;
+  }
+
+  .red-point {
+    right: -16px;
+  }
+
+  .red-point.four {
+    right: -19px;
+  }
+
+  .red-point.last {
+    right: -27px;
+  }
+
+  .red-point.three {
+    right: -13px;
+  }
+
+  .line-block.blue {
+    width: 40px;
+    height: 4px;
+  }
+
+  .line-block {
+    width: 31px;
+    height: 5px;
+  }
+
+  .save-all.blue {
+    font-size: 15px;
+    margin: 17px 0;
+    line-height: 17px;
+    font-weight: 500;
+  }
+
+  .save-all {
+    font-size: 17px;
+    margin: 17px 0;
+    line-height: 24px;
+  }
+
+  .container-link {
+    width: 154px;
+  }
+
+  .container-link p {
+    font-size: 12px;
+  }
+
+  .container-link p span {
+    font-size: 14px;
+  }
+
+  .animation1.first {
+    width: 550px;
+    bottom: -200px;
+    left: 63.5%;
+  }
+
+  .animation2.first {
+    width: 600px;
+    bottom: -485px;
+    left: 75%;
+  }
+
+  .animation1.two {
+    width: 400px;
+    top: -257px;
+    left: 63%;
+  }
+
+  .animation2.two {
+    width: 600px;
+    left: 81%;
+    top: -437px;
+  }
+  .animation1.three {
+    width: 400px;
+    left: 79%;
+    top: -284px;
+  }
+
+  .animation2.three {
+    width: 600px;
+    left: 82%;
+    top: -398px;
+  }
+
+  .swiper-slide-active .animation1.first {
+    transition: all 0.5s ease-in;
+    bottom: -128px;
+    left: 64.5%;
+  }
+
+  .swiper-slide-active .animation2.first {
+    transition: all 0.5s ease-in;
+    bottom: -353px;
+    left: 68%;
+  }
+
+  .swiper-slide-active .animation1.two {
+    transition: all 0.5s ease-in;
+    top: -109px;
+    left: 54%;
+  }
+
+  .swiper-slide-active .animation2.two {
+    transition: all 0.5s ease-in;
+    left: 59%;
+    top: -310px;
+  }
+  .swiper-slide-active .animation1.three {
+    transition: all 0.5s ease-in;
+    left: 66%;
+    top: -64px;
+  }
+
+  .swiper-slide-active .animation2.three {
+    transition: all 0.5s ease-in;
+    left: 71%;
+    top: -225px;
+  }
+}
+
